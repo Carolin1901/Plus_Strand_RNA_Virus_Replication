@@ -7,7 +7,7 @@ We developed mathematical model for the intracellular plus-strand RNA virus repl
 
 Model fitting and profile likelihood analysis have been performed by using the [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191) for the MATLAB environment (MATLAB 2016b) and hence, the structure of model folders follows that toolbox structure. Please see for more information the GitHub page and all references within ([Data2Dynamics GitHub](https://github.com/Data2Dynamics/d2d)).
 
-The folder structure for a model contains a *data*, *models* subfolder and *Setup* scripts. Run a particular model by executing the *Setup* script. 
+The folder structure for a model contains a *data*, *models* subfolder and *Setup* scripts. Run the model by executing the *Setup* script. 
 
 ## Results and plots
 Plotting has been performed with R.
