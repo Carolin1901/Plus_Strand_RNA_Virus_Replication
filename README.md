@@ -1,4 +1,4 @@
-# Plus_Strand_RNA_Virus_Replication
+# Mathematical modeling of plus-strand RNA virus replication
 
 ## Aim of this project
 We developed mathematical model for the intracellular plus-strand RNA virus replication to study pan-viral simularities and virus-specific differences in the viral lifecylces of hepatitis C virus, dengue virus, and coxsackievirus B3.  
@@ -15,7 +15,7 @@ The folder structure for a model contains a *data*, *models* subfolder and *Setu
 Plotting has been performed with R.
 
 ## References
-> [Zitzmann et al.](link) Our paper can be found here. 
+> [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.25.501353v1.abstract)
 > [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191) Data2Dynamics 
 > PLE 
 > [eFast]( https://www.sciencedirect.com/science/article/abs/pii/S0022519308001896?via%3Dihub)
