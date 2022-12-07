@@ -16,6 +16,5 @@ Plotting has been performed with R.
 
 ## References
 > [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.25.501353v1.abstract)
-> [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191) Data2Dynamics 
-> PLE 
+> [Data2Dynamics toolbox]( https://academic.oup.com/bioinformatics/article/31/21/3558/195191)
 > [eFast]( https://www.sciencedirect.com/science/article/abs/pii/S0022519308001896?via%3Dihub)
